@@ -1,0 +1,12 @@
+.shoe-1 {
+  position: relative;
+  border-radius: var(--br-31xl);
+  width: 100%;
+  height: 1390.19px;
+  transform: rotate(-7.07deg);
+  transform-origin: 0 0;
+  background-image: url(./public/shoe-1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
